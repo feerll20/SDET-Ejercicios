@@ -1,0 +1,11 @@
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.exe
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.deps.json
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.runtimeconfig.json
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.runtimeconfig.dev.json
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.dll
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\bin\Debug\netcoreapp3.1\Ex1_devCS.pdb
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\obj\Debug\netcoreapp3.1\Ex1_devCS.csprojAssemblyReference.cache
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\obj\Debug\netcoreapp3.1\Ex1_devCS.AssemblyInfoInputs.cache
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\obj\Debug\netcoreapp3.1\Ex1_devCS.AssemblyInfo.cs
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\obj\Debug\netcoreapp3.1\Ex1_devCS.dll
+C:\Users\fernando.lopez\source\repos\Ex1_devCS\Ex1_devCS\obj\Debug\netcoreapp3.1\Ex1_devCS.pdb
