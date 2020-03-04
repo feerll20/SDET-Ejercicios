@@ -1,0 +1,11 @@
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.exe
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.deps.json
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.runtimeconfig.json
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.runtimeconfig.dev.json
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.dll
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\bin\Debug\netcoreapp3.1\Ex2_devCS.pdb
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\obj\Debug\netcoreapp3.1\Ex2_devCS.csprojAssemblyReference.cache
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\obj\Debug\netcoreapp3.1\Ex2_devCS.AssemblyInfoInputs.cache
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\obj\Debug\netcoreapp3.1\Ex2_devCS.AssemblyInfo.cs
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\obj\Debug\netcoreapp3.1\Ex2_devCS.dll
+C:\Users\fernando.lopez\source\repos\Ex2_devCS\Ex2_devCS\obj\Debug\netcoreapp3.1\Ex2_devCS.pdb
